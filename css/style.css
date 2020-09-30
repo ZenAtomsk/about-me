@@ -10,6 +10,10 @@ h2{
     color: white;
 }
 
+p{
+    padding: 1%;
+}
+
 section{
     padding-bottom: 2%;
 }
