@@ -8,7 +8,8 @@ This purpose of this website is to quiz the user on fun facts to give the user b
 
 ### Links and Resources
 * [rel.it](https://repl.it/)
-* 
+* [CSS cheatsheet](https://overapi.com/css)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
 ### Reflections and Comments
 * Talking about myself is extrememly uncomfortable for me.

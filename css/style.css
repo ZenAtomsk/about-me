@@ -1,0 +1,35 @@
+
+h1{
+    color: red;
+}
+
+h2{
+    text-decoration: underline;
+    margin-bottom: 2%;
+    padding-top: 2%;
+    color: white;
+}
+
+section{
+    padding-bottom: 2%;
+}
+
+#biography{
+    background: black;
+    color: blueviolet;
+}
+
+#education{
+    background: blue;
+    color: rgb(248, 0, 0)
+}
+
+#workxp{
+    background: red;
+    color: rgb(0, 0, 0)
+}
+
+#goals{
+    background: rgb(78, 201, 74);
+    color: rgb(16, 33, 189)
+}
