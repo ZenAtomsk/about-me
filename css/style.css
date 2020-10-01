@@ -3,6 +3,10 @@ h1{
     color: red;
 }
 
+/* *{
+    text-align: center;
+} */
+
 h2{
     text-decoration: underline;
     margin-bottom: 2%;
@@ -14,9 +18,15 @@ p{
     padding: 1%;
 }
 
+h3{
+    text-decoration: underline;
+}
+
 section{
     padding-bottom: 2%;
 }
+
+.list{ }
 
 #biography{
     background: black;
