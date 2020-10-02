@@ -12,6 +12,7 @@ This purpose of this website is to quiz the user on fun facts to give the user b
 * [MDN Web Docs](https://developer.mozilla.org/en-US/)
 * [Class mates](https://canvas.instructure.com/courses/2325182/users)
 
+
 ### Reflections and Comments
 * Talking about myself is extrememly uncomfortable for me.
 * VS code is very handy with the extensions provided, I am excited to learn more extension when their use becomes apparant.
