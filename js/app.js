@@ -5,7 +5,12 @@ var keepingScore = 0
 function getName() {
     var userName = prompt('Hello, what is your name?');
     alert('nice to meet you ' + userName);
+
+    document.write('Welcome to my \"About Me\" ' + userName);
+    alert('Welcome to my \"About Me\" ' + userName);
 }
+
+getName();
 
 function question1() {
     var questionUno = prompt('Is my name Ricardo?');
@@ -62,8 +67,8 @@ function question5() {
     }
 }
 
-document.write('Welcome to my \"About Me\" ' + userName);
-alert('Welcome to my \"About Me\" ' + userName);
+// document.write('Welcome to my \"About Me\" ' + userName);
+// alert('Welcome to my \"About Me\" ' + userName);
 
 
 //question number six
